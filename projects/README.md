@@ -35,8 +35,8 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **Minimax**: adversarial search algorithm.
 
 ### Projects
-- [Degrees]
-- [Tic-Tac-Toe]
+- [Degrees] https://github.com/AbhishekTyagi404/ai50/tree/main/projects/crossword
+- [Tic-Tac-Toe] https://github.com/AbhishekTyagi404/ai50/tree/main/projects/tictactoe
 ## Lecture 1: Knowledge
 
 ### Concepts
@@ -53,8 +53,8 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **Conversion to CNF** and **Inference by resolution**
 
 ### Projects
-- [Knights]
-- [Minesweeper]
+- [Knights] https://github.com/AbhishekTyagi404/ai50/tree/main/projects/knights
+- [Minesweeper] https://github.com/AbhishekTyagi404/ai50/tree/main/projects/minesweeper
 
 ## Lecture 2: Uncertainty
 
@@ -76,8 +76,8 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **Likelihood weighting**
 
 ### Projects
-- [Heredity]
-- [PageRank]
+- [Heredity] https://github.com/AbhishekTyagi404/ai50/tree/main/projects/heredity
+- [PageRank] https://github.com/AbhishekTyagi404/ai50/tree/main/projects/pagerank
 ## Lecture 3: Optimization
 
 ### Concepts
@@ -100,7 +100,8 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
     - **Backtracking search**
 
 ### Projects
-- [Crossword]
+- [Crossword] https://github.com/AbhishekTyagi404/ai50/tree/main/projects/crossword
+
 ## Lecture 4: Learning
 
 ### Concepts
@@ -132,8 +133,8 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
  clusters' centers.
 
 ### Projects
-- [Shopping]
-- [Nim]
+- [Shopping] https://github.com/AbhishekTyagi404/ai50/tree/main/projects/shopping
+- [Nim] https://github.com/AbhishekTyagi404/ai50/tree/main/projects/nim
 
 ## Lecture 5: Neural Networks
 
@@ -155,7 +156,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **Backpropagation**: algorithm for training neural networks with hidden layers.
 
 ### Projects
-- [Traffic]
+- [Traffic] https://github.com/AbhishekTyagi404/ai50/tree/main/projects/traffic
 
 ## Lecture 6: Language
 
@@ -192,5 +193,5 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **skip-gram architecture**: neural network architecture for predicting context words given a target word.
 
 ### Projects
-- [Parser]
-- [Questions]
+- [Parser] https://github.com/AbhishekTyagi404/ai50/tree/main/projects/parser
+- [Questions] https://github.com/AbhishekTyagi404/ai50/tree/main/projects/questions
